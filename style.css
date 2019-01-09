@@ -1,0 +1,26 @@
+.mainContainer {
+    max-width: 500px;
+    margin: auto auto;
+
+}
+
+
+.container {
+    padding: 10px;
+    border-top: 5px solid;
+    border-bottom: 5px solid;
+}
+
+.section1 {
+    width: 30%;
+    float: left;
+}
+
+.section2 {
+    width: 70%;
+    float: left;
+}
+
+.clear {
+    clear: both;
+}
